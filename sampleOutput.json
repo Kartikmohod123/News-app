@@ -1,0 +1,58 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "",
+      "title": "Alex Padilla recounts his removal from DHS news conference in emotional Senate speech - NPR",
+      "description": "The California Democrat returned to the Senate floor Tuesday to warn that the Trump administrations response to immigration protests in Los Angeles should \"shock the conscience of our country.\"",
+      "url": "https://www.npr.org/2025/06/17/g-s1-73157/alex-padilla-kristi-noem-los-angeles-immigration-protests-press-conference",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3821x2149+0+199/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe5%2Fe1%2Fe3f019fb47f98fb6c8d1b6992e6e%2Fgettyimages-2220601341.jpg",
+      "publishedAt": "2025-06-17T20:05:30Z",
+      "content": "Sen. Alex Padilla, D-Calif., took to the Senate floor on Tuesday to emotionally describe the moments that led to him being forcefully removed from a news conference last week focused on the Trump adm… [+3175 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Live Science"
+      },
+      "author": "Joanna Thompson",
+      "title": "'Artificial intelligence is not a miracle cure': Nobel laureate raises questions about AI-generated image of black hole spinning at the heart of our galaxy - Live Science",
+      "description": "Researchers have used an AI model to create a new image of the black hole at the center of our galaxy. But some experts are skeptical of the results.",
+      "url": "https://www.livescience.com/space/black-holes/artificial-intelligence-is-not-a-miracle-cure-nobel-laureate-raises-questions-about-ai-generated-image-of-black-hole-spinning-at-the-heart-of-our-galaxy",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/QAWFgud69GuxGNCkUE9pyi.jpg",
+      "publishedAt": "2025-06-17T16:51:38Z",
+      "content": "The monster black hole at the center of our galaxy is spinning at near \"top speed,\" according to a new artificial intelligence (AI) model. \r\nThe model, trained partially on complex telescope data tha… [+3441 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Michelle Starr",
+      "title": "A Game-Changing Telescope Is About to Drop First Pics. Here's How to Watch. - ScienceAlert",
+      "description": "After more than 20 years in the making, we're finally about to see the first images from the Vera C.",
+      "url": "https://www.sciencealert.com/a-game-changing-telescope-is-about-to-drop-first-pics-heres-how-to-watch",
+      "urlToImage": "https://www.sciencealert.com/images/2025/06/rubin1.jpg",
+      "publishedAt": "2025-06-17T04:05:45Z",
+      "content": "After more than 20 years in the making, we're finally about to see the first images from the Vera C. Rubin Observatory in Chile, an astronomical facility with the largest digital camera ever built by… [+1910 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Single psilocybin trip delivers two years of depression relief for cancer patients - ScienceDaily",
+      "description": "Psilocybin, the active ingredient in magic mushrooms, might just revolutionize how depression and anxiety are treated in cancer patients. In a groundbreaking trial, a single dose combined with therapy significantly reduced emotional suffering, and these effec…",
+      "url": "https://www.sciencedaily.com/releases/2025/06/250616040215.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/Dry-Psilocybin-Magic-Mushrooms.webp",
+      "publishedAt": "2025-06-16T11:04:32Z",
+      "content": "New results from a clinical trial reveal that a single dose of psilocybin -- a naturally occurring psychedelic compound found in mushrooms -- can provide sustained reductions in depression and anxiet… [+1530 chars]"
+    }
+  ]
+}
