@@ -9,14 +9,13 @@ A sleek and responsive News App built with React and powered by a news API. It d
 - ⏳ Top loading bar for smooth user experience
 - 📱 Fully responsive and mobile-friendly design
 - ⚡ Fast, lightweight, and clean UI
-- 
+  
 ## 🛠️ Tech Stack
 
 - Frontend: React, CSS, Bootstrap (or Tailwind)
 - API: [NewsAPI.org](https://newsapi.org/) (or any other news provider)
 - Additional: React Router, React Infinite Scroll, Top Loading Bar
 
----
 
 ## 📸 Screenshots
  LIGHT MODE :-
@@ -29,10 +28,3 @@ A sleek and responsive News App built with React and powered by a news API. It d
 
 
 
-## 📦 Installation
-
-```bash
-git clone https://github.com/your-username/react-news-app.git
-cd react-news-app
-npm install
-npm start
