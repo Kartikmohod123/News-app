@@ -19,6 +19,14 @@ A sleek and responsive News App built with React and powered by a news API. It d
 ---
 
 ## 📸 Screenshots
+ LIGHT MODE :-
+
+![image](https://github.com/user-attachments/assets/0030df4f-9e41-4aa4-907c-1757340cd76a)
+
+ DARK MODE :-
+ ![image](https://github.com/user-attachments/assets/0e674254-6392-491a-bf6f-281ebf8b1bd9)
+
+
 
 
 ## 📦 Installation
