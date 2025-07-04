@@ -1,0 +1,23 @@
+/* App.css */
+body {
+  padding-top: 70px; /* navbar height */
+}
+
+body.dark {
+  background-color: #121212d3;
+  color: white;
+}
+
+body.dark .card {
+  background-color: #1e1e1e;
+  color: #f0f0f0;
+  border-color: #333;
+}
+
+body.dark .navbar {
+  background-color: #222 !important;
+}
+
+body.dark .nav-link {
+  color: #ddd !important;
+}
